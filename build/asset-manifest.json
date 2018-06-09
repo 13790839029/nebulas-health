@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
   "main.js": "static/js/main.d7adfa3e.js",
   "main.js.map": "static/js/main.d7adfa3e.js.map"
+=======
+  "main.js": "static/js/main.75f89300.js",
+  "main.js.map": "static/js/main.75f89300.js.map"
+>>>>>>> e322052d52abc722ca023b77ceb9fce483d3c5e9
 }
